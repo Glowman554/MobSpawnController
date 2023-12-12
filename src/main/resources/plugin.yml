@@ -1,0 +1,6 @@
+name: MobSpawnController
+version: ${project.version}
+main: de.glowman554.spawn.SpawnMain
+api-version: 1.19
+author: Glowman554
+softdepend: ['Multiverse-Core']
